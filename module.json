@@ -1,0 +1,23 @@
+{
+  "name": "mbed-hal-nxp",
+  "version": "0.1.0",
+  "description": "mbed low-level Hardware Abstraction Layer implementation for NXP microcontrollers",
+  "private": true,
+  "keywords": [
+    "mbed",
+    "HAL"
+  ],
+  "author": "Bangaragiri G <bangaragiri.g@nxp.com>",
+  "repository": {
+    "url": "git@github.com:ARMmbed/mbed-hal-nxp.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/ARMmbed/mbed-hal-nxp",
+  "license": "Apache-2",
+  "dependencies": {},
+  "targetDependencies": {
+    "jn517x": {
+      "mbed-hal-nxp-jn517x": "~0.1.0"
+    }
+  }
+}
