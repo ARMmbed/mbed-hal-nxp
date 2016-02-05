@@ -17,6 +17,9 @@
   "targetDependencies": {
     "jn517x": {
       "mbed-hal-nxp-jn517x": "~0.1.0"
+    },
+    "lpc1768": {
+      "mbed-hal-nxp-lpc1768": "~0.1.0"
     }
   }
 }
